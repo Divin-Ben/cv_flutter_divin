@@ -1,13 +1,13 @@
 
-# 📱 APPLICATION CV – DIVIN BEN
+# APPLICATION CV – DIVIN BEN
 
-## 👨‍💻 Présentation du projet
+## Présentation du projet
 
 Bienvenue sur mon projet Flutter de présentation personnelle.
 
 Cette application permet de découvrir mon curriculum vitæ, mes informations personnelles, ma famille ainsi que mes coordonnées.
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
 - Présentation personnelle
 - Consultation de mon CV
@@ -16,14 +16,14 @@ Cette application permet de découvrir mon curriculum vitæ, mes informations pe
 - Informations de contact
 - Interface moderne et navigation simple
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 - Flutter
 - Dart
 - Visual Studio Code
 - Git et GitHub
 
-## 📸 Captures d'écran
+## Captures d'écran
 
 ### Capture 1
 ![Capture 1](screenshots/1.jpg)
@@ -37,7 +37,7 @@ Cette application permet de découvrir mon curriculum vitæ, mes informations pe
 ### Capture 4
 ![Capture 4](screenshots/4.jpg)
 
-## 👤 Auteur
+## Auteur
 
 **DIVIN BAHAVU BÉNÉDICTION**
 
