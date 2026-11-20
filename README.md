@@ -1,70 +1,52 @@
-# cv_flutter_divin
 
-Application Flutter de présentation du CV, de la famille et des coordonnées de Divin Bahavu Bénédiction.
+# 📱 APPLICATION CV – DIVIN BEN
 
-## Fonctionnalités
+## 👨‍💻 Présentation du projet
 
-- Page de connexion avec identifiant et mot de passe masqué.
-- Page CV : profil, formation, expériences, compétences, langues et centres d’intérêt.
-- Page Famille : présentation des membres avec leur lien de parenté.
-- Page Contact : coordonnées et profils en ligne.
-- Navigation avec `NavigationBar` et possibilité de se déconnecter.
+Bienvenue sur mon projet Flutter de présentation personnelle.
 
-## Identifiants de démonstration
+Cette application permet de découvrir mon curriculum vitæ, mes informations personnelles, ma famille ainsi que mes coordonnées.
 
-- Identifiant : `divin`
-- Mot de passe : `1234`
+## ✨ Fonctionnalités
 
-Ces identifiants sont uniquement destinés à la démonstration scolaire. Pour une vraie application, il faut mettre en place une authentification sécurisée.
+- Présentation personnelle
+- Consultation de mon CV
+- Présentation des membres de ma famille
+- Affichage des photos familiales
+- Informations de contact
+- Interface moderne et navigation simple
 
-## Installation et lancement
+## 🛠️ Technologies utilisées
 
-```bash
-flutter pub get
-flutter run
-```
+- Flutter
+- Dart
+- Visual Studio Code
+- Git et GitHub
 
-## Personnalisation obligatoire avant la remise
+## 📸 Captures d'écran
 
-1. Remplacer l’avatar par votre vraie photo.
-2. Compléter les noms, photos et professions des membres de la famille dans `FamilyPage`.
-3. Remplacer le numéro de téléphone, l’e-mail et les liens sociaux dans `ContactPage`.
-4. Compléter les niveaux de langues, les compétences et les détails des projets/stages dans `HomePage`.
-5. Vérifier les informations affichées et tester l’application.
+### Capture 1
+![Capture 1](screenshots/1.jpg)
 
-## Captures d’écran
+### Capture 2
+![Capture 2](screenshots/2.jpg)
 
-Après avoir lancé l’application sur un téléphone ou un émulateur, prenez une capture de chacune des quatre pages et placez les images dans le dossier `screenshots/` avec les noms suivants :
+### Capture 3
+![Capture 3](screenshots/3.jpg)
 
-- `01-connexion.png`
-- `02-accueil-cv.png`
-- `03-famille.png`
-- `04-contact.png`
+### Capture 4
+![Capture 4](screenshots/4.jpg)
 
-Puis remplacez cette section par les images, par exemple :
+## 👤 Auteur
 
-```markdown
-## Captures d’écran
+**DIVIN BAHAVU BÉNÉDICTION**
 
-![Connexion](screenshots/01-connexion.png)
-![Accueil - CV](screenshots/02-accueil-cv.png)
-![Famille](screenshots/03-famille.png)
-![Contact](screenshots/04-contact.png)
-```
+Étudiant en Licence 4
 
-**Important :** le dépôt doit contenir les quatre vraies captures d’écran. Les noms des fichiers seuls ne suffisent pas.
+## 🔗 Lien du projet
 
-## Dépôt GitHub public
+[Voir mon projet sur GitHub](https://github.com/Divin-Ben/cv_flutter_divin)
 
-Créez un dépôt public nommé exactement `cv_flutter_divin`, puis exécutez dans le dossier du projet :
+---
 
-```bash
-git init
-git add .
-git commit -m "Initialisation de l'application CV Flutter"
-git branch -M main
-git remote add origin https://github.com/VOTRE-PSEUDO/cv_flutter_divin.git
-git push -u origin main
-```
-
-Remplacez `VOTRE-PSEUDO` par votre nom d’utilisateur GitHub.
+© 2026 DIVIN BEN – Tous droits réservés.
