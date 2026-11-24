@@ -25,30 +25,21 @@ Cette application permet de découvrir mon curriculum vitæ, mes informations pe
 
 ## Captures d'écran
 
-### Capture 1
+### 1. Capture 
 ![Capture 1](screenshots/1.jpg)
 
-### Capture 2
+### 2. Capture 
 ![Capture 2](screenshots/2.jpg)
 
-### Capture 3
+### 3. Capture 
 ![Capture 3](screenshots/3.jpg)
 
-### Capture 4
+### 4. Capture 
 ![Capture 4](screenshots/4.jpg)
 
-### video demo 
+### 5. video
 https://github.com/user-attachments/assets/9233f302-1acc-4e31-a2ab-d0bd357e0716
-## Auteur
-
+## 6. Auteur
 **DIVIN BAHAVU BÉNÉDICTION**
-
-Étudiant en Licence 4
-
-## 🔗 Lien du projet
-
-[Voir mon projet sur GitHub](https://github.com/Divin-Ben/cv_flutter_divin)
-
 ---
-
 © 2026 DIVIN BEN – Tous droits réservés.
