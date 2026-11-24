@@ -40,6 +40,6 @@ Cette application permet de découvrir mon curriculum vitæ, mes informations pe
 ### 5. video
 https://github.com/user-attachments/assets/9233f302-1acc-4e31-a2ab-d0bd357e0716
 ## 6. Auteur
-**DIVIN BAHAVU BÉNÉDICTION**
+**DIVIN BAHAVU Bénédiction**
 ---
 © 2026 DIVIN BEN – Tous droits réservés.
