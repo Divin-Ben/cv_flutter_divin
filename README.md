@@ -38,7 +38,7 @@ Cette application permet de découvrir mon curriculum vitæ, mes informations pe
 ![Capture 4](screenshots/4.jpg)
 
 ### video demo 
-[voir ma video](https://drive.google.com/file/d/18WYdZe_0bBQCtOQYLJPKGjd-1WFHSL1M/view?usp=sharing)
+https://github.com/user-attachments/assets/9233f302-1acc-4e31-a2ab-d0bd357e0716
 ## Auteur
 
 **DIVIN BAHAVU BÉNÉDICTION**
